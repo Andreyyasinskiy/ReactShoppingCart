@@ -2,6 +2,8 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
   display: flex;
+  background: #333;
+  color: #fc0; 
   justify-content: space-between;
   flex-direction: column;
   width: 100%;
